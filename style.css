@@ -2741,13 +2741,22 @@
   font-weight: 700;
 }
 .chart-10 {
-  width: 100vw;
-  height: 948px;
+  width: 456px;
+  height: 384px;
   position: absolute;
-  left: 402px;
-  top: 2318px;
+  left: 400px;
+  top: 2476px;
   object-fit: cover;
 }
+.chart-20 {
+  width: 400px;
+  height: 463px;
+  position: absolute;
+  right: 380px;
+  top: 3393px;
+  object-fit: cover;
+}
+
 .rectangle-83 {
   width: 605px;
   height: 295px;
@@ -5840,8 +5849,8 @@
   width: 508px;
   height: 508px;
   position: absolute;
-  left: 986px;
-  top: 2493px;
+  right: 380px;
+  top: 2528px;
   object-fit: cover;
 }
 .eat-a-meal-alone {
