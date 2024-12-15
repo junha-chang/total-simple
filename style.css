@@ -2740,6 +2740,14 @@
   line-height: 88px;
   font-weight: 700;
 }
+.chart-10 {
+  width: 100vw;
+  height: 948px;
+  position: absolute;
+  left: 402px;
+  top: 2318px;
+  object-fit: cover;
+}
 .rectangle-83 {
   width: 605px;
   height: 295px;
