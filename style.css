@@ -5845,13 +5845,16 @@
   letter-spacing: -0.06em;
   font-weight: 400;
 }
-.one-room-1 {
-  width: 508px;
-  height: 508px;
+.flex .one-room-1 {
+  width: 100%;
+  max-width: 508px;
+  height: auto;
   position: absolute;
-  right: 380px;
+
+  right: 360px;
   top: 2528px;
   object-fit: cover;
+  aspect-ratio: 1 / 1; /* 유지하려는 너비와 높이 비율 */
 }
 .eat-a-meal-alone {
   width: 298px;
